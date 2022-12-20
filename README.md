@@ -6,6 +6,21 @@ In this repo will contain:
 * Lore about cities
 * Lore about prominent families
 
+----
 
 ## World Map
 <img src="./World Map/WorldMap.png" alt="Getting Starting"/>
+
+-------
+
+### Cities within the world map
+- Wastewind
+- Feathermeadow
+- Red Ridge Mine
+- Swellingwall
+- Redwallow
+- Everstead
+- Flatbreak
+- Willowloft
+- Misten
+- Mudalden
