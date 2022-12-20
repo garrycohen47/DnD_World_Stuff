@@ -1,5 +1,11 @@
-# DnD_World_Stuff
+# Info about repo
 
-First change
+This is a repo to facilitate the information needed for the dnd campaign **The Long Night**
 
-Second Change
+In this repo will contain:
+* Lore about cities
+* Lore about prominent families
+
+
+## World Map
+<img src="./World Map/WorldMap.png" alt="Getting Starting"/>
