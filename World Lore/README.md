@@ -31,7 +31,7 @@ The second settlement within Gothmar. It was founded after the cursing of Willow
 ---
 
 ## Redwallow: 
-The capital city of Gothmar. Recently it has had some issues with sickly beasts attacking the citizens.
+The capital city of Gothmar. With the introduction to the Church of Downtrodden, many medical advancements have been made. Curing almost every known ailment, many alchemists have flocked over to try and learn.
 
 ---
 
