@@ -12,4 +12,4 @@ Slumbering Dragon-Touched Focus | Yes | You have **advantage on initiative rolls
 Scary Blade | Yes | This **(+1) dagger** allows you to **(once per combat) attempt to frighten a creature**. The creature must **pass a DC 13 WIS saving throw** or it will be frightened for 1 minute. *There's a face etched onto the blade.* | Any
 Tome of Truth | No | While holding this Tome, you can cast **_Zone of Truth_ once a short rest**. *The pages in the book are completely blank.* | **NOT** Bard, Cleric, or Paladin
 Bloodied Axe | Yes | A **(+1) greataxe**. Deals an extra **1d6 necrotic damage** to non-undead/constructs. *It's blade is a reddish hue.* | Any
-Dirty Bow | No | A **(+1) longbow** which was made to look dirty. *Why?* | Any
+Dirty Bow | Yes | A **(+1) longbow** which was made to look dirty. Because of it's stink, each arrow used by this bow deals an extra **1d4 poison damage**. *Why?* | Any
