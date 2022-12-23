@@ -16,7 +16,7 @@ A major archaeologist site in Gothmar, where historians flock towards to see if 
 ---
 
 ## Misten:
-A small bulwark settlement used to protect Gothmar from the East. It is primarily a military town.
+A small bulwark settlement used to protect Gothmar from the East. It is primarily a military town. It is often surrounded in a dense fog.
 
 ---
 

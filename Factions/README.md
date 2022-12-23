@@ -9,3 +9,4 @@ Red Ridge Miners | Red Ridge Mine | Prof in Jeweler's tools & Smith's tools | Yo
 Purist Faithful | Swellingwall | Gain 1 Favored Enemy (1st Level Ranger Feature) | A group of zealots who believe that non-humans are causing the downfall of Gothmar. They will solve this issue at any cost.
 Jesters | Willowloft | Prof in 1 Musical Instrument & Poisoner's kit | An assassin group, formed out of necessity. They are in service to the royal family.
 Church of Downtrodden | Redwallow | Prof in Alchemy Tools & Herbalism Kit | An offshoot of the Church of the Ancient, made specifically to help any injury. Recent medical advancements have made them able to cure almost any illness.
+Whisphering Worshiphers | Redwallow | Verbal Components are optional to complete a spell. | A group of "*extremists"* who believe all the good occuring in the city is apart of a greater plan... by an Old One.
