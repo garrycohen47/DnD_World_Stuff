@@ -1,5 +1,13 @@
 # World Lore
 
+Around ~100 years ago, the isle of Gothmar only contained Elves, Orcs, Half-Orcs, Goblins and Kobolds.
+
+Then other kingdoms, seeing a `vastly unsettled area`, sent explorers and civilians there to settle and add land to their own empires. After ~20 years, the settlers had enough power to officially break away from their original kingdoms, and they became the Isle of Gothmar.
+
+---
+
+# Specific Area Lore
+
 ## Everstead:
 A city of magical ruins, which are still active to this day. It is a place of magical innovation, where no matter how mundane or weird the progress, progress is still well rewarded. 
 
