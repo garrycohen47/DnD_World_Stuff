@@ -42,6 +42,7 @@ A bulwark city, with the sturdy walls erected long ago, serves to protect Gothma
 
 ## Feathermeadow:
 A small settlement of people who commune with nature, believing it to be the true way forward for life. They are the original locals of Gothmar. They are not inherently ill towards outsiders, but they are not generally trusted.
+The races that inhabit this area are typically Elves, Orcs, and Half-Orcs. Recently Kobolds and Goblins have fled to this area to seek refuge from adventurers.
 
 ---
 
