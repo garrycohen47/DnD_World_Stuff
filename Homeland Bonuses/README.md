@@ -1,14 +1,14 @@
 # Homeland Buffs
 
-Homeland City | Bonuses | Description
-:---:|:---:|:---:
-Red Ridge Mine | TBD | You were either born here or moved here, but now the cavern is more homely than any city. You have integrated to the city over time, and can now call this your home.
-Wastewind | TBD | TBD
-Feathermeadow | TBD | The original inhabitants of the island. They are banded together to protect it from outside meddlers. Believing it is divine right that they protect this land, they sometimes go farther than needed.
-Swellingwall | TBD | TBD
-Redwallow | TBD | TBD
-Everstead | TBD | TBD
-Flatbreak | TBD | Archaeologists and historians primarly live in this ruined town. The civilization that once lived here grants endless discoveries about how they lived, and how they may have died.
-Misten | TBD | TBD
-Mudalden | TBD | TBD
-Willowloft | TBD | TBD
+Homeland City | Bonuses 
+:---:|:---:
+Red Ridge Mine | Gain Prof in Mason's tools. Add Dwarvish to your known languages.
+Wastewind | +2 STR Cap. +2 DEX Cap.
+Feathermeadow | +2 CHR Cap. Add Sylvan to your known languages.
+Swellingwall | Gain Prof in 2 Artisan's Tools.
+Redwallow | Gain Prof in Religion and Medicine.
+Everstead | +2 INT Cap. Gain Prof in Arcana.
+Flatbreak | Gain Prof in History and Investigation.
+Misten | +2 WIS Cap. Gain Prof in Survival.
+Mudalden | Add 2 uncommon langagues to your known languages.
+Willowloft | Gain Prof in Alchemist Supplies and Arcana.
